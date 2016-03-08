@@ -1,0 +1,11 @@
+<?php
+
+function connect(){
+	$va=mysql_connect("localhost","root","");
+	mysql_select_db("Trender");
+	return $va;
+}
+
+
+
+?>
