@@ -20,7 +20,7 @@
 <!-- Menu -->
 <nav class="blue-grey darken-3">
   <div class="nav-wrapper">
-    <a href="index.php" class="brand-logo">Trender</a>
+    <a href="index.php" class="brand-logo">Cristy McBeacon</a>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
       <li><a href="requirements.php">Requirements</a></li>
@@ -33,7 +33,7 @@
       <li><a href="glossary.php">Glossary</a></li>
       <li><a href="settings.php?part=prints">Prints</a></li>
       <li><a href="settings.php?part=backup">Tools</a></li>
-      
+
       <li><a href="settings.php"><i class="material-icons">settings</i></a></li>
       <li><a href="index.php?logout"><i class="material-icons">exit_to_app</i></a></li>
     </ul>
@@ -48,7 +48,7 @@
       <li><a href="glossary.php">Glossary</a></li>
       <li><a href="settings.php?part=prints">Prints</a></li>
       <li><a href="settings.php?part=backup">Tools</a></li>
-      
+
       <li><a href="settings.php"><i class="material-icons left">settings</i>Setting</a></li>
       <li><a href="index.php?logout"><i class="material-icons left">exit_to_app</i>Logout</a></li>
       </ul>

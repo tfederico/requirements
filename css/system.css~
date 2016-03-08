@@ -7,7 +7,7 @@
 }
 body {
 	/*background-image:url('../image/background.png');*/
-	background-color: #6699FF;
+	background-color: #33CCFF;
 	background-size:500px;
 	background-repeat:repeat;
 	background-margin:-500px;
