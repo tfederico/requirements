@@ -6,7 +6,8 @@
 	margin-left: 0.8em;
 }
 body {
-	background-image:url('../image/background.png');
+
+	background-color:  	#E8E8E8;
 	background-size:500px;
 	background-repeat:repeat;
 	background-margin:-500px;
